@@ -1,0 +1,1 @@
+insert into Produto(codigo,nome,preco,descricao) values(1,'kindle',488.0,'Conheça o novo kindle agora');
